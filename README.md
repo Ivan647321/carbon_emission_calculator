@@ -1,6 +1,6 @@
 # gdg_workshop
 
-A new Flutter project.
+A carbon emission calculator
 
 ## Getting Started
 
